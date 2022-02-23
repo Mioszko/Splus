@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/s-plus/static/css/main.ca2774ac.css",
+    "main.js": "/s-plus/static/js/main.65861045.js",
+    "static/js/787.a519ad6b.chunk.js": "/s-plus/static/js/787.a519ad6b.chunk.js",
+    "static/media/zehnder.png": "/s-plus/static/media/zehnder.c48f5278509affd5458d.png",
+    "static/media/nieregularny.jpg": "/s-plus/static/media/nieregularny.661887e4babf65f70bca.jpg",
+    "static/media/40.jpg": "/s-plus/static/media/40.988e44555ddf11209660.jpg",
+    "static/media/portos1.jpg": "/s-plus/static/media/portos1.8b1669732af1bd16a3a2.jpg",
+    "static/media/BIUROWIECsmall.jpg": "/s-plus/static/media/BIUROWIECsmall.b26ddd69be1d71e671dd.jpg",
+    "static/media/karpniki139.png": "/s-plus/static/media/karpniki139.9a2287326de65911dab9.png",
+    "index.html": "/s-plus/index.html",
+    "main.ca2774ac.css.map": "/s-plus/static/css/main.ca2774ac.css.map",
+    "main.65861045.js.map": "/s-plus/static/js/main.65861045.js.map",
+    "787.a519ad6b.chunk.js.map": "/s-plus/static/js/787.a519ad6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca2774ac.css",
+    "static/js/main.65861045.js"
+  ]
+}
