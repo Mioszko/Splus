@@ -1,0 +1,54 @@
+
+/* .container {
+    min-width: 25rem;
+    margin: 0 1rem;
+} */
+
+
+    /* margin-top: 2rem; */
+.ul-container {
+
+    padding: 0;
+    cursor:default;
+}
+
+/* ul {
+    display: flex;
+} */
+
+/* .ul {
+    display: flex;
+    padding: 0;
+  
+    
+} */
+
+ /* .li-container {
+    margin-bottom: 1.5rem;
+    margin-top: -0.3rem;
+    list-style: none;
+    font-size: 0.9rem;
+    font-weight: 600;
+} */
+
+/* .li {
+
+
+    list-style: none;
+    font-size: 0.9rem;
+    margin-top: 0.1rem;
+    font-weight: 300;
+    
+    cursor: pointer;   
+} */
+    /* display: flex;
+    justify-content: space-between; */
+
+/* .invalid {
+    display: none;
+} */
+/* 
+.hover:hover {
+    background-color: black;
+    color: white;
+} */

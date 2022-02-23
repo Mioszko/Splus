@@ -1,0 +1,51 @@
+
+/* .container {
+    min-width: 25rem;
+    margin: 0 1rem;
+} */
+
+.ul-container {
+    /* margin-top: 2rem; */
+    padding: 0;
+    cursor:default;
+}
+
+/* ul {
+    display: flex;
+} */
+
+.ul {
+    display: flex;
+    padding: 0;
+  
+    
+}
+
+ .li-container {
+    margin-bottom: 1.5rem;
+    margin-top: -0.3rem;
+    list-style: none;
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+.li {
+    /* display: flex;
+    justify-content: space-between; */
+
+    list-style: none;
+    font-size: 0.8rem;
+    margin-top: 0.1rem;
+    font-weight: 300;
+    
+    cursor: pointer;   
+}
+
+/* .invalid {
+    display: none;
+} */
+
+.hover:hover {
+    background-color: black;
+    color: white;
+}

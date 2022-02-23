@@ -1,0 +1,16 @@
+.container {
+    /* display: none; */
+    /* padding: 1.5rem; */
+    
+    /* min-width: 25rem;
+    max-width: 25rem; */
+
+    min-width: 23rem;
+    max-width: 23rem;
+    margin: 0 1rem;
+  
+}
+
+.invalid {
+    display: none;
+}
